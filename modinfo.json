@@ -1,0 +1,22 @@
+{
+  "context": "client",
+  "identifier": "ca.pa.metapod.heavy_air_group_deselect",
+  "display_name": "Wyrm Independence!",
+  "description": "Removes the Wyrm, Hornet, and Zeus from the "select all air combat" function, and also adds the Firefly into the combat air group",
+  "author": "cascadian",
+  "version": "1.0.0",
+  "build": "89755",
+  "date": "2016/03/24",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/heavy-air-group-de-select.71557/",
+  "icon": "http://i.imgur.com/yXzmvZ1.png",
+  "category": [
+	  "in-game",
+	  "shader",
+	  "colours",
+	  "explosion",
+	  "selection",
+	  "filter"
+    ],
+  "priority": 100
+}
